@@ -16,7 +16,7 @@ public class MymvcConfig extends WebMvcConfigurerAdapter {
     }
 
     //所有WebMvcConfigurerAdapter组件都会一起起作用
-    @Bean //将组件注入到Spring 容器中
+    @Bean   //将组件注入到Spring 容器中
     public  WebMvcConfigurerAdapter webMvcConfigurerAdapter() {
         WebMvcConfigurerAdapter adapter = new WebMvcConfigurerAdapter() {
             @Override
