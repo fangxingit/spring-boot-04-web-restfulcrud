@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc9fc09e-045c-4be9-93a9-cd57db791b8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/success1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/springboot/controller/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/springboot/controller/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-boot-04-web-restfulcrud.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/springboot/config/MymvcConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/springboot/config/MymvcConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/springboot/config/MymvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/springboot/config/MymvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/springboot/controller/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/springboot/controller/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/spring-boot-04-web-restfulcrud.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -12,13 +26,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="en_US.properties">
+      <favorite_root url="file://$PROJECT_DIR$/src/main/resources/i18n/login.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/src/main/resources/i18n/login_zh_CN.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/controller/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="60">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,43 +46,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/config/MymvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="240">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#737#969#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#1321#1322#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="216">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -70,8 +71,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="837">
+              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/component/MyLocaleResolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE.jar!/org/springframework/web/servlet/LocaleResolver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.1.RELEASE/spring-boot-autoconfigure-2.2.1.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9126">
+              <caret line="447" column="33" selection-start-line="447" selection-start-column="33" selection-end-line="447" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -94,6 +125,7 @@
       <find>contentnegotiation</find>
       <find>contentnegoti</find>
       <find>link</find>
+      <find>locale</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,10 +138,14 @@
         <option value="$PROJECT_DIR$/src/main/resources/public/firstPage.html" />
         <option value="$PROJECT_DIR$/src/test/java/com/atguigu/springboot/SpringBoot04WebRestfulcrudApplicationTests.java" />
         <option value="$PROJECT_DIR$/src/main/resources/public/success.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/success.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/success.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/springboot/controller/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/success1.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/login_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/springboot/component/MyLocaleResolver.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/springboot/config/MymvcConfig.java" />
       </list>
     </option>
@@ -120,6 +156,22 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-04-web-restfulcrud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-04-web-restfulcrud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="59" />
@@ -133,7 +185,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,12 +225,73 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource Bundle 'login'" type="a6c14932:ResourceBundleNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="spring-boot-04-web-restfulcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,10 +304,10 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573797032210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574234742554" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -240,7 +352,10 @@
       <workItem from="1573607812309" duration="2006000" />
       <workItem from="1573616446202" duration="1621000" />
       <workItem from="1573694086589" duration="1133000" />
-      <workItem from="1573780966593" duration="6938000" />
+      <workItem from="1573780966593" duration="8093000" />
+      <workItem from="1574039689058" duration="8066000" />
+      <workItem from="1574126594832" duration="5524000" />
+      <workItem from="1574233393420" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1573630224378</created>
@@ -249,17 +364,37 @@
       <option name="project" value="LOCAL" />
       <updated>1573630224378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1574233487115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574233487115</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1574234618956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574234618956</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <created>1574234701140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574234701140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17313000" />
+    <option name="totallyTimeSpent" value="33070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.25189108" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.21406959" />
       <window_info id="Structure" order="1" sideWeight="0.50101835" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -269,13 +404,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.20989761" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.38395905" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.60750854" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.33617747" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924356" weight="0.32935154" />
@@ -285,7 +420,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -294,7 +429,7 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.25189108" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.21406959" />
       <window_info id="Structure" order="1" sideWeight="0.50101835" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -304,7 +439,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.20989761" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.26791808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,7 +455,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -334,7 +469,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建" />
+    <MESSAGE value="update" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/component/MyLocaleResolver.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.1.RELEASE/spring-boot-dependencies-2.2.1.RELEASE.pom">
@@ -348,13 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.1.RELEASE/spring-boot-autoconfigure-2.2.1.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="154" column="5" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -372,20 +514,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/SpringBoot04WebRestfulcrudApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/config/annotation/ViewControllerRegistry.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -393,13 +522,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/success.html" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/asserts/js/Chart.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -440,37 +563,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/commons/bar.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/controller/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/webjars/bootstrap/4.0.0/bootstrap-4.0.0.jar!/META-INF/maven/org.webjars/bootstrap/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1620">
@@ -478,21 +570,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/MSYH/jdk1.8.0_73/jre/lib/deploy.jar!/com/sun/deploy/config/EmptyConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/SpringBoot04WebRestfulcrudApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/login_zh_CN.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/login.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/login_en_US.properties">
+      <provider selected="true" editor-type-id="ResourceBundle" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/validation/DefaultMessageCodesResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="837">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE.jar!/org/springframework/web/servlet/LocaleResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.1.RELEASE/spring-boot-autoconfigure-2.2.1.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9126">
+          <caret line="447" column="33" selection-start-line="447" selection-start-column="33" selection-end-line="447" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/config/MymvcConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="240">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#737#969#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/component/MyLocaleResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/controller/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

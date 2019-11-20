@@ -4,6 +4,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import java.util.HashMap;
+import java.util.Map;
+
 
 @Controller
 public class HelloWorld {
@@ -28,5 +31,11 @@ public class HelloWorld {
 //        return "login.html";
 //
 //    }
+   // @ResponseBody
+    @RequestMapping("/success1")
+    public String success(Map<String,Object> map){
+        map.put("hello","你好！");
+        return "success1";
+    }
 
 }
